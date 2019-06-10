@@ -6,12 +6,12 @@ var jwt = require('jsonwebtoken');
 
 var users=[
   {
-    username: "xxxx",
-    password: "xxxx"
+    username: "rvitali",
+    password: "rvitali"
   },
   {
-    username: "yyyy",
-    password: "yyyy"
+    username: "rvitali1",
+    password: "rvitali1"
   }
 ];
 

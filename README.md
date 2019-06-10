@@ -6,6 +6,7 @@
 ## Server with dummy credentials
 - Express, JSON WEB TOKEN, CORS, BODY PARSER
 - [Link Front Saga Redux React](https://github.com/roddyvitali/simple_saga_redux_react)
+- Token expires in 1 min
 
 ## Install
 
