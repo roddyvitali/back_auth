@@ -25,7 +25,6 @@ app.use( bodyParser.urlencoded({
         );
 app.use( express.static('./') );
 
-
 app.post( '/login', (req,res) => {
     var message;
     for(var user of users){
@@ -62,6 +61,6 @@ app.post( '/login', (req,res) => {
     }
 });
 
-app.listen(3000, function(){
-  console.log('listening on port 3000');
+app.listen(3001, function(){
+  console.log('listening on port 3001');
 });
